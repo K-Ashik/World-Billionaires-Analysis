@@ -17,7 +17,8 @@ We'll utilize Python libraries such as Pandas, Matplotlib, and Seaborn for data 
 
 Let's embark on this journey to explore the fascinating world of billionaires and uncover insights that shed light on wealth distribution, industry dynamics, and global economic trends.
 
-<img src="[https://example.com/image.jpg](https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2020/10/ca_billionaires_money_istock.jpg?w=2000&ssl=1)https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2020/10/ca_billionaires_money_istock.jpg?w=2000&ssl=1" alt="Billionaire">
+<img src="https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2020/10/ca_billionaires_money_istock.jpg?w=2000&ssl=1" alt="Liverpool FC" width="300"> 
+
 
 
 </div>
